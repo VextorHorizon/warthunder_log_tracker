@@ -1,2 +1,2 @@
 # WarThunder_log_tracker
-War thunder tracker with SQLite3 database 👍
+War thunder log handmanual tracker with SQLite3 database 👍
